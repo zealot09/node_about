@@ -5,7 +5,7 @@ var TIME_FORMAT = 'YYYY-MM-DD hh:mm:ss';
 var connection = mysql.createConnection({
 	host: 'localhost',
 	user: 'root',
-	password: 'password01!'
+	password: ''
 });
 
 setInterval(function() {

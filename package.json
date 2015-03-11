@@ -1,0 +1,30 @@
+{
+  "name": "regularTask",
+  "version": "0.0.1",
+  "description": "a regular service to delete records and backup from mysql",
+  "main": "main.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zealot09/node_about.git"
+  },
+  "dependencies": {
+    "mysql": "2.5.5",
+	"moment": "2.9.0 ",
+    "node-windows": "~0.1.7"
+  },
+  "keywords": [
+    "mysql",
+    "regular",
+    "windows",
+    "service"
+  ],
+  "author": "leiguo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zealot09/node_about/issues"
+  },
+  "homepage": "https://github.com/zealot09/node_about"
+}
